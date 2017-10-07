@@ -1,0 +1,48 @@
+a
+{
+    cursor: pointer;
+}
+
+table,th, td
+{
+	margin: auto;
+	border: black 1px solid;
+
+}
+table
+{
+	width: 80%;
+}
+td
+{
+	text-align: center;
+}
+th
+{
+	height: 50px;
+	text-align: center;
+}	
+table th 
+{
+	background-color: #824e4e; 
+}
+
+table tr:nth-child(odd) 
+{
+	background-color: #655454;
+	color: black;
+}
+
+table tr:nth-child(even) 
+{
+	background-color: #6b5252;
+	color: black;
+}
+a.btn.btn-primary
+{
+	margin:5px;
+}
+table.login
+{
+	width: 50%;
+}
