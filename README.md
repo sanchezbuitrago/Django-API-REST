@@ -1,2 +1,2 @@
 # Django-API-REST
-Api Rest con django manejode de usuarios y productos con base de datos sqlite.
+Aplicacion que usa un Api Rest en django que realiza el manejo de usuarios y productos con base de datos sqlite.
